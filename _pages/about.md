@@ -24,8 +24,8 @@ Goals: Taking advantage of rapid data influx (both "on the ground" fires and "in
 # River Network Models
 Goals: Designing monitoring studies and modeling water temperature patterns across river networks. Developing network models which consider the spatial (on braching river networks) and temporal (across time) complexity of thermal regimes that will aid fisheries and freshwater management under a changing climate.
 
-* Steel, A.E., Marsha, A., Fullerton, A.H., Olden, J.D., Larkin, N.K., Lee, S.Y., Ferguson, A. 2018. Thermal landscapes in a changing climate: biological implications of water temperature patterns in an extreme year. Can. J. Fish. Aquat. Sci. https://doi.org/10.1139/cjfas-2018-0244
-* Marsha A., Steel E.A., Fullerton A.H., Sowder C. 2018. Monitoring riverine thermal regimes across stream networks: insights into spatial sampling designs from the Snoqualmie River, WA. Ecol. Indic. 84: 11-26. https://doi.org/10.1016/j.ecolind.2017.08.028
+* Steel, A.E., Marsha, A., Fullerton, A.H., Olden, J.D., Larkin, N.K., Lee, S.Y., Ferguson, A. 2018. Thermal landscapes in a changing climate: biological implications of water temperature patterns in an extreme year. Can. J. Fish. Aquat. Sci. [https://doi.org/10.1139/cjfas-2018-0244](https://doi.org/10.1139/cjfas-2018-0244)
+* Marsha A., Steel E.A., Fullerton A.H., Sowder C. 2018. Monitoring riverine thermal regimes across stream networks: insights into spatial sampling designs from the Snoqualmie River, WA. Ecol. Indic. 84: 11-26. [https://doi.org/10.1016/j.ecolind.2017.08.028](https://doi.org/10.1016/j.ecolind.2017.08.028)
 
 
 
